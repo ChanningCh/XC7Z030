@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Nov 27 15:08:45 2021
+# Process ID: 3584
+# Current directory: E:/19CX2/AcqTrans/Core/PL/AcqTrans_v0_1/AcqTrans_v0_1.runs/impl_1
+# Command line: vivado.exe -log led_twinkle.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_twinkle.tcl -notrace
+# Log file: E:/19CX2/AcqTrans/Core/PL/AcqTrans_v0_1/AcqTrans_v0_1.runs/impl_1/led_twinkle.vdi
+# Journal file: E:/19CX2/AcqTrans/Core/PL/AcqTrans_v0_1/AcqTrans_v0_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source led_twinkle.tcl -notrace

@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:E:/19CX2/AcqTrans/Core/PL/AcqTrans_v0_1/AcqTrans_v0_1.srcs/constrs_1/new/led_twinkle.xdc rfile:../../../AcqTrans_v0_1.srcs/constrs_1/new/led_twinkle.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN C6 IOSTANDARD LVCMOS18} [get_ports sys_clk]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN C7 IOSTANDARD LVCMOS18} [get_ports sys_rst_n]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN C8 IOSTANDARD LVCMOS18} [get_ports led]
